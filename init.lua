@@ -24,6 +24,7 @@ vim.opt.timeoutlen = 300
 vim.opt.swapfile = false
 vim.opt.backup = false
 vim.opt.writebackup = false
+vim.opt.autoread = true
 
 -- folding (treesitter)
 vim.opt.foldmethod = "expr"
